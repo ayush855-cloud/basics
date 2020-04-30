@@ -8,7 +8,7 @@ char userInitials(char *name)
     // Initialize the character array "name" and set to zero
     // Determine the length of the string using strlen
     // Print the first valid input of the string
-    // Loop through the string until a space is found
+    
    
 
     for (int i = 0; i < MAX_BUFFER_LENGTH; i++)

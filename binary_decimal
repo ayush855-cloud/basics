@@ -19,7 +19,5 @@ int convert(long long n) {
     }
     return dec;
 }
-Output
 
-Enter a binary number: 110110111
-110110111 in binary = 439
+
